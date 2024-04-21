@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan David Restrepo</h1>
 <h3 align="center">🖥 😊 Programmer, Tech Lead & entrepreneur ❤️</h3>
 
-- 🔭 I’m currently working on [Sigfre](https://sigfre.com)
+- 🔭 I’m currently working on [Blokay](https://blokay.com)
 
 - 👯 I’m looking to collaborate with **companies**
 
