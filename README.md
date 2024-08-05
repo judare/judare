@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate with **companies**
 
-- 📫 How to reach me **fosebadgame@gmail.com**
+- 📫 How to reach me **juan@blokay.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
